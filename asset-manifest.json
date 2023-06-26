@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.eed95e2e.css",
-    "main.js": "./static/js/main.1c0606ff.js",
+    "main.css": "./static/css/main.1ece31d8.css",
+    "main.js": "./static/js/main.0b9d4371.js",
     "static/js/787.98651143.chunk.js": "./static/js/787.98651143.chunk.js",
     "static/media/BackgroundOfficeMountainsEpic.webp": "./static/media/BackgroundOfficeMountainsEpic.cb330544130ded945429.webp",
     "static/media/Jira.png": "./static/media/Jira.9a53935a35cb6eb110c6.png",
@@ -30,12 +30,12 @@
     "static/media/Tinder.svg": "./static/media/Tinder.07f78c0ccf5f440bdcd63c6f2ca78912.svg",
     "static/media/Plus.svg": "./static/media/Plus.a345d37cca964f3c8a2bb56eb2e88139.svg",
     "index.html": "./index.html",
-    "main.eed95e2e.css.map": "./static/css/main.eed95e2e.css.map",
-    "main.1c0606ff.js.map": "./static/js/main.1c0606ff.js.map",
+    "main.1ece31d8.css.map": "./static/css/main.1ece31d8.css.map",
+    "main.0b9d4371.js.map": "./static/js/main.0b9d4371.js.map",
     "787.98651143.chunk.js.map": "./static/js/787.98651143.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eed95e2e.css",
-    "static/js/main.1c0606ff.js"
+    "static/css/main.1ece31d8.css",
+    "static/js/main.0b9d4371.js"
   ]
 }
